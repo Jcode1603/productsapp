@@ -1,2 +1,2 @@
 # productsapp
-A products application 
+A demo products application built with django web framework 
